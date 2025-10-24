@@ -16,4 +16,3 @@ Este sistema simula um mini banco de dados, permitindo que o usuário cadastre, 
 - ✏️ Atualizar informações cadastradas  
 - ❌ Remover registros  
 - 📁 Estrutura modular com arquivos separados  
-- 🎯 Fácil entendimento e ideal para aprendizado
